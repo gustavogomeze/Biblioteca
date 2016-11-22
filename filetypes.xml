@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="rock" type="Images" />
-      <mapping pattern="menu" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
